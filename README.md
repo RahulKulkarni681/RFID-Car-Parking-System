@@ -12,3 +12,7 @@ The RFID-based car parking system in IoE aims to streamline vehicle identificati
 - IR Sensors
 - Servo Motor
 - ESP8266 WiFi Module
+
+### Contributors
+- [Vishnu Yelde](https://github.com/VishnuYelde)
+- [Prachiti Yadav](https://github.com/PrachitiYadav)

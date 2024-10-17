@@ -135,6 +135,9 @@ void loop() {
 
 // Function to check RFID card
 bool checkRFIDCard() {
+  Serial.println(cardUID);
+  Serial.println(currentUser);
+  Serial.println(carParked);
   if (rfid.PICC_IsNewCardPresent() && rfid.PICC_ReadCardSerial()) {
     // cardScanned = true;
     String cardUID = "";

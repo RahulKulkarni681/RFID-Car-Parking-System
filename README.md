@@ -16,3 +16,9 @@ The RFID-based car parking system in IoE aims to streamline vehicle identificati
 ### Contributors
 - [Vishnu Yelde](https://github.com/VishnuYelde)
 - [Prachiti Yadav](https://github.com/PrachitiYadav)
+
+### Features 
+- Automation Car Parking 
+- Intelligence connectivity
+- Data Analysis
+- Security

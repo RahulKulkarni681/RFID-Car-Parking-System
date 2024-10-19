@@ -1,7 +1,7 @@
 # RFID based Car Parking and Toll Collection System
 
 ## Overview
-The RFID-based car parking system in IoE aims to streamline vehicle identification and parking management. Vehicles will have RFID tags, which are scanned by RFID readers installed at the entry and exit points of the parking facility. Parking space sensors detect vehicle presence in each space. A microcontroller collects data from the RFID readers and sensors, processes it, and sends it to a cloud service for real-time and historical analysis. Users receive real-time notifications via SMS about parking availability and their parking session details. A web or mobile application provides an interface for users to monitor parking status and access their parking history. This system enhances efficiency, security, and user convenience in parking management.
+The RFID-based car parking system in IoE aims to streamline vehicle identification and parking management. Vehicles will have RFID tags, which are scanned by RFID readers installed at the entry and exit points of the parking facility. Parking space sensors detect vehicle presence in each space. Parking fee will be charged according to the time the vehicle was parked. A microcontroller collects data from the RFID readers and sensors, processes it, and sends it to a cloud service for real-time and historical analysis. Users receive real-time notifications via SMS about parking availability and their parking session details.
 
 ## Components Required
 - Arduino Uno

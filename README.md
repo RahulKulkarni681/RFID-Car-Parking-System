@@ -22,3 +22,7 @@ The RFID-based car parking system in IoE aims to streamline vehicle identificati
 - Intelligence connectivity
 - Data Analysis
 - Security
+
+### License
+
+[GNU GPL 3](https://choosealicense.com/licenses/gpl-3.0/)
